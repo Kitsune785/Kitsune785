@@ -5,6 +5,9 @@
 <div id="badges" align="center">
   <a href="https://t.me/Anna_Kitsune_Kh">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <p>
+      📫 email: Anna-Khrolenko@yandex.ru
+    </p>
   </a>
 </div>
 
