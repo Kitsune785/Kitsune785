@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+</div>
+
+
 ### Привет! 👋
 ### Я -  Анна, начинающий тестировщик <img src="https://user-images.githubusercontent.com/100095364/201468864-4071cb22-06fc-4cd6-b4f0-94acc9581ce1.gif" width="30">
 ---
@@ -9,7 +14,10 @@
       📫 email: Anna-Khrolenko@yandex.ru
     </p>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-Kitsune785&style=flat-square&color=blue" alt=""/>
 </div>
+
+
 
 
 ### 🛠️ Languages and Tools :
@@ -63,8 +71,17 @@
 :exclamation::sparkles:  На данный момент продолжаю обучение на QA инженера в Netology.
 
 ---
-<img src="https://komarev.com/ghpvc/?username=Kitsune785&style=flat-square&color=blue" alt=""/>
 
+
+<div id="badges" align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitsune785&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<div id="badges" align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kitsune785\&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
 
