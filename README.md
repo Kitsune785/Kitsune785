@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools :
 
-- Git, HTML, CSS, Java, IntelliJ IDEA, Gradle, Maven, JUnit, Lombok, Selenium, Selenide, BDD, Docker, SQL, MySQL, PostgresSQL, DBeaver, Report Portal, AppVeyor, Github Actions, Patterns, JaCoCo, Postman, Visual Studio Code, JavaScript, Node, Jest, Playwright, Puppeeter...
+- Git, HTML, CSS, Java, IntelliJ IDEA, Gradle, Maven, JUnit, Lombok, Selenium, Selenide, BDD, Docker, SQL, MySQL, PostgresSQL, DBeaver, Report Portal, AppVeyor, Github Actions, Patterns, JaCoCo, Postman, Visual Studio Code, JavaScript, Node, Jest, Playwright, Puppeeter, Cypress, Jenkins...
 
 <img src="https://user-images.githubusercontent.com/100095364/201470462-352a901a-c2d1-49da-bc54-bc101556d0d5.svg" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/100095364/201470465-98cbdaf7-fc9c-4465-b787-bfd5dfd0e218.svg" width="40" height="40"/>&nbsp;
