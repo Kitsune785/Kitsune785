@@ -22,20 +22,12 @@
 
 ### 🛠️ Languages and Tools :
 
-- Git, HTML, CSS, Java, IntelliJ IDEA, Gradle, Maven, JUnit, Lombok, Selenium, Selenide, BDD, Docker, SQL, MySQL, PostgresSQL, DBeaver, Report Portal, AppVeyor, Github Actions, Patterns, JaCoCo, Postman, Visual Studio Code, JavaScript, Node, Jest, Playwright, Puppeeter, Cypress, Jenkins...
+- Git, HTML, CSS, Github Actions, Postman
+- Java, IntelliJ IDEA, Gradle, Maven, JUnit, Lombok, Selenium, Selenide, BDD, Report Portal, AppVeyor, Patterns, JaCoCo
+- Docker, SQL, MySQL, PostgresSQL, DBeaver
+- Visual Studio Code, JavaScript, Node, Jest, Playwright, Puppeeter, Cypress, Jenkins
+- xCode, Android Studio, XCUITest, Appium, Espresso ...
 
-<img src="https://user-images.githubusercontent.com/100095364/201470462-352a901a-c2d1-49da-bc54-bc101556d0d5.svg" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/100095364/201470465-98cbdaf7-fc9c-4465-b787-bfd5dfd0e218.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/100095364/201470097-82ab053d-6a04-4b4e-a676-84ee1b59e979.svg" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/100095364/201470533-00904b9f-83b9-4816-bbce-73b3e9271f4b.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/100095364/201470363-bc8c1656-223d-4fc4-8c7d-e03f756751ba.svg" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
 
 ---
 ### :page_facing_up: Тестовая документация и примеры работ
@@ -67,6 +59,7 @@
 
 ##### [Свидетельство Автоматизация тестирования веб-интерфейсов](https://github.com/Kitsune785/Certificates/blob/main/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%D0%B5%D0%B1-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D0%BE%D0%B2.pdf)
 
+##### [Свидетельство Тестирование мобильных приложений](https://github.com/Kitsune785/Certificates/blob/main/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9.pdf)
 
 
 
